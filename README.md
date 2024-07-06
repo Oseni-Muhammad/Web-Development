@@ -1,6 +1,6 @@
 # Web Development training
 
-# Tools I used
+## Tools I used
 
 - HTML
 - CSS
